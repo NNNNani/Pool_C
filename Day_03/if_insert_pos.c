@@ -18,5 +18,5 @@ int if_insert_pos(int arr[], int size, int n)
             right = mid - 1;
     }
 
-    return left;   // position where n should be inserted
+    return left;
 }
